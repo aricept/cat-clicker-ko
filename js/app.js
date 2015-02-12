@@ -14,7 +14,7 @@ var initialCats = [
 	{
 		clickCount: 0,
 		name: 'Mischief',
-		imgSrc: 'img/4154543904_6e2428c421_z',
+		imgSrc: 'img/4154543904_6e2428c421_z.jpg',
 		nicknames: ['Scratchy']
 	},
 	{
